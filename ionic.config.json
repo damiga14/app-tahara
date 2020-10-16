@@ -1,0 +1,7 @@
+{
+  "name": "ionReact2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
