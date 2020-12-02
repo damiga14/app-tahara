@@ -1,0 +1,7 @@
+{
+  "name": "iTEbila",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
