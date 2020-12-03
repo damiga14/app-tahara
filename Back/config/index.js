@@ -10,7 +10,7 @@ var dbData = {
 var config = {
     // NODE_ENV = process.env.NODE_ENV,
 
-    port: process.env.port,
+    PORT: process.env.PORT,
 
     db: `mongodb+srv://${dbData.DB_User}:${dbData.DB_Pass}@${dbData.DB_Host}/${dbData.DB_Name}?retryWrites=true&w=majority`
 }
